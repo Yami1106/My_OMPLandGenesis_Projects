@@ -1,0 +1,3 @@
+/code/code/code/build/CMakeFiles/plan.dir
+/code/code/code/build/CMakeFiles/edit_cache.dir
+/code/code/code/build/CMakeFiles/rebuild_cache.dir

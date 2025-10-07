@@ -1,0 +1,162 @@
+Info:    Beginning benchmark
+Info:    Preparing for run 0 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 22.62 in 208 iterations (33 vertices in the graph)
+Info:    RRTstar: Created 1818 new states. Checked 1653471 rewire options. 1 goal states in tree. Final solution cost 12.397
+Info:    SimpleSetup: Path simplification took 0.098165 seconds and changed from 10 to 4 states
+Info:    Preparing for run 1 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 17.96 in 197 iterations (30 vertices in the graph)
+Info:    RRTstar: Created 1818 new states. Checked 1653471 rewire options. 1 goal states in tree. Final solution cost 12.117
+Info:    SimpleSetup: Path simplification took 0.061104 seconds and changed from 8 to 7 states
+Info:    Preparing for run 2 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 18.37 in 478 iterations (77 vertices in the graph)
+Info:    RRTstar: Created 1819 new states. Checked 1655290 rewire options. 1 goal states in tree. Final solution cost 13.341
+Info:    SimpleSetup: Path simplification took 0.100726 seconds and changed from 8 to 4 states
+Info:    Preparing for run 3 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 20.94 in 158 iterations (31 vertices in the graph)
+Info:    RRTstar: Created 1821 new states. Checked 1658931 rewire options. 1 goal states in tree. Final solution cost 10.350
+Info:    SimpleSetup: Path simplification took 0.061526 seconds and changed from 7 to 5 states
+Info:    Preparing for run 4 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 14.10 in 72 iterations (14 vertices in the graph)
+Info:    RRTstar: Created 1818 new states. Checked 1653471 rewire options. 1 goal states in tree. Final solution cost 12.192
+Info:    SimpleSetup: Path simplification took 0.073440 seconds and changed from 9 to 7 states
+Info:    Preparing for run 5 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 14.97 in 639 iterations (122 vertices in the graph)
+Info:    RRTstar: Created 1816 new states. Checked 1649836 rewire options. 1 goal states in tree. Final solution cost 12.555
+Info:    SimpleSetup: Path simplification took 0.063426 seconds and changed from 8 to 5 states
+Info:    Preparing for run 6 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 20.98 in 161 iterations (21 vertices in the graph)
+Info:    RRTstar: Created 1818 new states. Checked 1653471 rewire options. 1 goal states in tree. Final solution cost 12.669
+Info:    SimpleSetup: Path simplification took 0.074072 seconds and changed from 10 to 7 states
+Info:    Preparing for run 7 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 22.49 in 427 iterations (79 vertices in the graph)
+Info:    RRTstar: Created 1816 new states. Checked 1649836 rewire options. 1 goal states in tree. Final solution cost 13.199
+Info:    SimpleSetup: Path simplification took 0.076419 seconds and changed from 9 to 4 states
+Info:    Preparing for run 8 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 34.96 in 731 iterations (123 vertices in the graph)
+Info:    RRTstar: Created 1823 new states. Checked 1662576 rewire options. 1 goal states in tree. Final solution cost 12.243
+Info:    SimpleSetup: Path simplification took 0.094870 seconds and changed from 8 to 6 states
+Info:    Preparing for run 9 of geometric_RRTstar
+Info:    RRTstar: Started planning with 1 states. Seeking a solution better than 0.00000.
+Info:    RRTstar: Initial k-nearest value of 607
+Info:    RRTstar: Found an initial solution with a cost of 30.70 in 515 iterations (86 vertices in the graph)
+Info:    RRTstar: Created 1817 new states. Checked 1651653 rewire options. 1 goal states in tree. Final solution cost 12.233
+Info:    SimpleSetup: Path simplification took 0.065533 seconds and changed from 7 to 5 states
+Info:    Preparing for run 0 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 23083 states
+Info:    SimpleSetup: Path simplification took 0.047936 seconds and changed from 4 to 4 states
+Info:    Preparing for run 1 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 22652 states
+Info:    SimpleSetup: Path simplification took 0.053303 seconds and changed from 9 to 4 states
+Info:    Preparing for run 2 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 22736 states
+Info:    SimpleSetup: Path simplification took 0.052873 seconds and changed from 6 to 5 states
+Info:    Preparing for run 3 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 22685 states
+Info:    SimpleSetup: Path simplification took 0.045833 seconds and changed from 8 to 4 states
+Info:    Preparing for run 4 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 22781 states
+Info:    SimpleSetup: Path simplification took 0.045033 seconds and changed from 6 to 5 states
+Info:    Preparing for run 5 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 23746 states
+Info:    SimpleSetup: Path simplification took 0.047491 seconds and changed from 7 to 5 states
+Info:    Preparing for run 6 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 23008 states
+Info:    SimpleSetup: Path simplification took 0.049516 seconds and changed from 6 to 4 states
+Info:    Preparing for run 7 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 22791 states
+Info:    SimpleSetup: Path simplification took 0.028183 seconds and changed from 6 to 5 states
+Info:    Preparing for run 8 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 23983 states
+Info:    SimpleSetup: Path simplification took 0.059942 seconds and changed from 7 to 4 states
+Info:    Preparing for run 9 of geometric_PRMstar
+Info:    PRMstar: Starting planning with 2 states already in datastructure
+Info:    PRMstar: Created 22957 states
+Info:    SimpleSetup: Path simplification took 0.046700 seconds and changed from 7 to 5 states
+Info:    Preparing for run 0 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 15.81 in 200 iterations (43 vertices in the graph)
+Info:    RRTXstatic: Created 1279 new states. Checked 2468 rewire options. 1 goal states in tree. Final solution cost 9.432
+Info:    SimpleSetup: Path simplification took 0.031973 seconds and changed from 5 to 4 states
+Info:    Preparing for run 1 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 20.37 in 35 iterations (12 vertices in the graph)
+Info:    RRTXstatic: Created 1236 new states. Checked 2914 rewire options. 1 goal states in tree. Final solution cost 9.675
+Info:    SimpleSetup: Path simplification took 0.035873 seconds and changed from 5 to 5 states
+Info:    Preparing for run 2 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 20.43 in 184 iterations (41 vertices in the graph)
+Info:    RRTXstatic: Created 1242 new states. Checked 2782 rewire options. 1 goal states in tree. Final solution cost 10.228
+Info:    SimpleSetup: Path simplification took 0.043248 seconds and changed from 5 to 6 states
+Info:    Preparing for run 3 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 12.51 in 145 iterations (32 vertices in the graph)
+Info:    RRTXstatic: Created 1128 new states. Checked 2190 rewire options. 1 goal states in tree. Final solution cost 10.561
+Info:    SimpleSetup: Path simplification took 0.059429 seconds and changed from 6 to 4 states
+Info:    Preparing for run 4 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    ProblemDefinition: Adding approximate solution from planner RRTXstatic
+Info:    RRTXstatic: Created 880 new states. Checked 1919 rewire options. 0 goal states in tree. Final solution cost inf
+Info:    SimpleSetup: Path simplification took 0.052060 seconds and changed from 5 to 3 states
+Info:    Preparing for run 5 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 19.03 in 292 iterations (64 vertices in the graph)
+Info:    RRTXstatic: Created 1137 new states. Checked 2285 rewire options. 1 goal states in tree. Final solution cost 9.757
+Info:    SimpleSetup: Path simplification took 0.044367 seconds and changed from 5 to 5 states
+Info:    Preparing for run 6 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 15.14 in 401 iterations (74 vertices in the graph)
+Info:    RRTXstatic: Created 1195 new states. Checked 2775 rewire options. 1 goal states in tree. Final solution cost 10.197
+Info:    SimpleSetup: Path simplification took 0.037180 seconds and changed from 5 to 8 states
+Info:    Preparing for run 7 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 18.04 in 491 iterations (89 vertices in the graph)
+Info:    RRTXstatic: Created 1232 new states. Checked 2778 rewire options. 1 goal states in tree. Final solution cost 9.299
+Info:    SimpleSetup: Path simplification took 0.050656 seconds and changed from 4 to 5 states
+Info:    Preparing for run 8 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 13.94 in 2109 iterations (395 vertices in the graph)
+Info:    RRTXstatic: Created 1182 new states. Checked 2373 rewire options. 1 goal states in tree. Final solution cost 10.300
+Info:    SimpleSetup: Path simplification took 0.041687 seconds and changed from 6 to 3 states
+Info:    Preparing for run 9 of geometric_RRTXstatic
+Info:    RRTXstatic: Starting planning with 1 states already in datastructure
+Info:    RRTXstatic: Initial k-nearest value of 607
+Info:    RRTXstatic: Found an initial solution with a cost of 14.41 in 252 iterations (53 vertices in the graph)
+Info:    RRTXstatic: Created 1261 new states. Checked 2489 rewire options. 1 goal states in tree. Final solution cost 9.895
+Info:    SimpleSetup: Path simplification took 0.051336 seconds and changed from 5 to 5 states
+Info:    Benchmark complete

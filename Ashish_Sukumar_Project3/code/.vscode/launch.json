@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Env1",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": ["--path", "build/path1.txt", "--environment",  "env1.txt"] // Add your command line arguments here
+        },
+        {
+            "name": "Env2",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": ["--path", "build/path2.txt", "--environment",  "env2.txt"] // Add your command line arguments here
+        }
+
+    ]
+}
